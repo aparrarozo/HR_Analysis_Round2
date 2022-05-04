@@ -1,5 +1,5 @@
 # HR_Analysis_Round2
-Work in progress!
+
 
 This is new attempt at improving the model used to predict employee attrition for a human resources project I worked in during the Ironhack Bootcamp in March 2022. 
 
