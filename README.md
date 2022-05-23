@@ -1,7 +1,6 @@
-# HR_Analysis_Round2
+# HR_Analysis_Employee_Attrition
 
-
-This is new attempt at improving the model used to predict employee attrition for a human resources project I worked in during the Ironhack Bootcamp in March 2022. 
+This model is used to predict employee attrition for a human resources project I worked in during the Ironhack Bootcamp in March 2022. 
 
 Problem Statement: In a large pharma company, 15 % of employees leave every year. This generates large costs in finding and training new staff as well as delaying projects.
 
